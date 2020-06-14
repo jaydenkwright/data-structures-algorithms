@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/data-structures-algorithms",
   siteMetadata: {
     title: 'DS & Algos',
     description: `Data structures & Algorithms Study Guide`,

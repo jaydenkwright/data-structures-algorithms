@@ -107,8 +107,9 @@ class MyArray{
 
 When being asked a question about strings, consider splitting into an array, doing some kind of loop/operation and then combining it and returning it as a string.
 
+### Reversing Strings
+
 ``` js
-// Create a function that reverses strings
 
 const reverse = string => {
   if(!string) return
@@ -119,6 +120,8 @@ const reverse = string => {
   return reversed.join('')
 }
 ```
+
+
 
 ## Leetcode Questions
 

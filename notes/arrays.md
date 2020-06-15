@@ -110,8 +110,7 @@ When being asked a question about strings, consider splitting into an array, doi
 ``` js
 // Create a function that reverses strings
 
-
-const reverse = (string) => {
+const reverse = string => {
   if(!string) return
   const reversed = []
   for(let i = string.length - 1; i >= 0; i--){

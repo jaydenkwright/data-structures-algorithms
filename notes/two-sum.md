@@ -1,5 +1,5 @@
 ---
-title: 1. Two Sum
+title: Two Sum
 emoji: ''
 tags:
   - Arrays

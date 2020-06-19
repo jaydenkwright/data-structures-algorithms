@@ -4,6 +4,7 @@ emoji: ''
 tags:
   - Arrays
   - Hash Tables
+  - Solutions
 link: https://leetcode.com/problems/two-sum/
 ---
 

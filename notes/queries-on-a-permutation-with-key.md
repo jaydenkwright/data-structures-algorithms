@@ -1,5 +1,5 @@
 ---
-title: 1409. Queries on a Permutation With Key
+title: Queries on a Permutation With Key
 emoji: ''
 tags:
   - Arrays

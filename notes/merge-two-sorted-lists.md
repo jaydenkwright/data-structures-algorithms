@@ -30,6 +30,7 @@ class Solution:
                 head.next = l2
                 l2 = l2.next
             head = head.next
+            
         if l1 != None:
             head.next = l1
             l1 = l1.next
